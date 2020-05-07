@@ -1,0 +1,7 @@
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\obj\Debug\LAB3.csprojAssemblyReference.cache
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб3\LAB3\LAB3\obj\Debug\LAB3.pdb
